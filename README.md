@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/abdimajid john kulalihi" target="blank"><img align="center" src="" alt="abdimajid john kulalihi" height="30" width="40" /></a>
+<a href="https://fb.com/abdimajid john kulalihi" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/abdimajid abdirashid" target="blank"><img align="center" src="" height="30" width="40" /></a>
 </p>
 
